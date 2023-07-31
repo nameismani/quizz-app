@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/qizz-app/static/css/main.f0b12249.css",
+    "main.js": "/qizz-app/static/js/main.78926b72.js",
+    "index.html": "/qizz-app/index.html",
+    "main.f0b12249.css.map": "/qizz-app/static/css/main.f0b12249.css.map",
+    "main.78926b72.js.map": "/qizz-app/static/js/main.78926b72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0b12249.css",
+    "static/js/main.78926b72.js"
+  ]
+}
